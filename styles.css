@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+color: purple ;
+}
+
+button {
+    background-color: green;
+    font-size: 15px;
+    border-radius: 5px;
+}
